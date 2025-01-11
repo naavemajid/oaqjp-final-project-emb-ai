@@ -1,2 +1,2 @@
 # Repository for final project
-stil in development
+still in development
